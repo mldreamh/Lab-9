@@ -11,8 +11,9 @@
 # Тесты
 Тест 1
 ___
-![](https://github.com/I-D-S/Saati/blob/main/tests/%D1%82%D0%B5%D1%81%D1%821.png)
+![]![photo_2022-10-21_22-05-39](https://user-images.githubusercontent.com/113675455/197250689-2557611c-a9b7-4638-bcee-f3b8f097b791.jpg)
 ___
 Тест 2
 ___
-![](https://github.com/I-D-S/Saati/blob/main/tests/%D1%82%D0%B5%D1%81%D1%822.png)
+![]![photo_2022-10-21_22-05-43](https://user-images.githubusercontent.com/113675455/197250732-09607a91-c333-42a9-920a-46296f93eed8.jpg)
+
