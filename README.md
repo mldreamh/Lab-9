@@ -19,25 +19,39 @@
 # Тесты
 Тест 1
 ___
-[1 тест](https://user-images.githubusercontent.com/113675455/200175562-8c9a9956-cb77-4ea8-9cc1-bc8ca7094a6a.jpg)
+![1 тест](https://user-images.githubusercontent.com/113675455/200175562-8c9a9956-cb77-4ea8-9cc1-bc8ca7094a6a.jpg)
+
 Рис. 1.1 Исходный
+
 ![1 1 тест](https://user-images.githubusercontent.com/113675455/200175602-d2bad2c8-26a4-4d79-b521-c0128488b947.jpg)
+
 Рис. 1.2 Два хода
+
 ![1 2 тест](https://user-images.githubusercontent.com/113675455/200175631-ba9d50cb-d046-4527-ac5b-e4e683c0bf5c.jpg)
+
+
 Рис. 1.3 Код
 ___
 Тест 2
 ___
 ![2 тест](https://user-images.githubusercontent.com/113675455/200175667-ea552698-3bff-4a2e-8500-e0daf8f0b8e0.jpg)
+
 Рис. 2.1 Исходный
+
 ![2 1 тест](https://user-images.githubusercontent.com/113675455/200175686-6bd663ff-5db8-4669-9073-23fe2e033dcb.jpg)
+
 Рис. 2.2 Код
 ___
 Тест 3
 ___
 ![3 тест](https://user-images.githubusercontent.com/113675455/200175727-b0d8eb64-c961-44e2-8cb6-3eb29a1130eb.jpg)
+
 Рис. 3.1 Исходный
+
 ![3 1 тест](https://user-images.githubusercontent.com/113675455/200175748-bfa2fef5-4db5-4a3d-a849-57be0f1df5fd.jpg)
+
 Рис. 3.2 Два хода
+
 ![3 2 тест](https://user-images.githubusercontent.com/113675455/200175755-10e17443-d2ba-4cdd-bcfc-817aca2aea31.jpg)
+
 Рис. 3.3 Код
