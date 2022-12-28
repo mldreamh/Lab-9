@@ -1,3 +1,23 @@
-INFO:root:correct number input, n = 7
-INFO:root:correct number input, n = 13
-INFO:root:correct number input, n = 25
+2022-12-28 08:33:07,437 INFO n = 7
+2022-12-22 08:33:07,437 INFO suitable
+2022-12-22 08:33:08,786 INFO k = 3
+2022-12-22 08:33:08,786 INFO hidden_num = 4
+2022-12-22 08:33:35,981 INFO input num = 5
+2022-12-22 08:33:35,981 INFO suitable
+2022-12-22 08:33:35,981 INFO the number isn't guessed
+2022-12-22 08:33:38,903 INFO input num = 5
+2022-12-22 08:33:38,903 INFO suitable
+2022-12-22 08:33:38,903 INFO the number is guessed
+2022-12-22 08:33:42,546 INFO n = 10
+2022-12-22 08:33:42,546 INFO suitable
+2022-12-22 08:33:42,535 INFO k = 5
+2022-12-22 08:33:57,536 INFO hidden_num = 7
+2022-12-22 08:33:57,402 INFO input num = 3
+2022-12-22 08:33:59,402 INFO suitable
+2022-12-22 08:33:59,402 INFO the number isn't guessed
+2022-12-22 08:34:02,025 INFO input num = 5
+2022-12-22 08:34:02,025 INFO suitable
+2022-12-22 08:34:02,025 INFO the number isn't guessed
+2022-12-22 08:34:09,664 INFO input num = 7
+2022-12-22 08:34:09,664 INFO suitable
+2022-12-22 08:34:09,664 INFO the number is guessed
